@@ -2,7 +2,7 @@
     "version": 1,
     "buillds":[
         {
-            "src": "./src/app.js",
+            "src": "./server.js",
             "use": "@vercel/node"
         }
     ],
